@@ -1,16 +1,24 @@
-### Hi there 👋
+## Introducing Myself
 
-<!--
-**sohanmanchireddy/sohanmanchireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Sohan. An aspiring Data Analyst with knowledge in data cleaning and transformation, data visualization, descriptive and diagnostic analysis, and data reporting.
 
-Here are some ideas to get you started:
+- SQL for DQL and DDL 
+- Data analysis in spreadsheets, relational databases, and R
+- Data visualization in Tableau, R, and spreadsheets
+- Data reporting with Slides and Rmarkdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Projects
+
+Welcome to my portfolio, where I showcase my projects
+
+### Tools
+
+- Language: SQL, R
+- Spreadsheets: Sheets, Excel
+- Database: Google BigQuery, MySQL
+- Visualization: Tableau, RStudio
+
+### Connect with Me
+<!---
+- [Linkedin](https://www.linkedin.com/in/sohan-manchireddy/)
 -->
