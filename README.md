@@ -9,7 +9,7 @@ Hello, I'm Sohan. An aspiring Data Analyst with knowledge in data cleaning and t
 
 ### Projects
 
-Welcome to my portfolio, where I showcase my projects
+Welcome to my portfolio, where I showcase my [projects](
 
 ### Tools
 
