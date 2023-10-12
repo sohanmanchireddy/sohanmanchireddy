@@ -3,9 +3,9 @@
 Hello, I'm Sohan. An aspiring Data Analyst with knowledge in data cleaning and transformation, data visualization, descriptive and diagnostic analysis, and data reporting.
 
 - SQL for DQL and DDL 
-- Data analysis in spreadsheets, relational databases, and R
-- Data visualization in Tableau, R, and spreadsheets
-- Data reporting with Slides and Rmarkdown
+- Data analysis in spreadsheets, relational databases, and Python
+- Data visualization in Tableau and spreadsheets
+- Data reporting with Slides
 
 ### Projects
 
@@ -13,10 +13,10 @@ Welcome to my portfolio, where I showcase my [projects](
 
 ### Tools
 
-- Language: SQL, R
+- Languages: SQL, Python
 - Spreadsheets: Sheets, Excel
 - Database: Google BigQuery, MySQL
-- Visualization: Tableau, RStudio
+- Visualization: Tableau
 
 ### Connect with Me
 <!---
