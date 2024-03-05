@@ -19,6 +19,4 @@ Welcome to my portfolio, where I showcase my projects!
 - Visualization: Tableau
 
 ### Connect with Me
-<---
-- [Linkedin](https://www.linkedin.com/in/sohan-manchireddy/)
--->
+[Linkedin](https://www.linkedin.com/in/sohan-manchireddy/)
